@@ -5,13 +5,13 @@
 
 body {
     margin: 0;
-    padding: 0;
+    padding: 10px;
     background-color: #2708da;
     color: #333;
 }
 
 main {
-    background-color: #fff;
+    background-color: #900303;
     width: 500px; 
     margin: 0 auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
